@@ -1,4 +1,4 @@
-# INSTA-CRAWLING (BeautifulSoup)
+# INSTA-CRAWLING (SELENIUM)
 
 ### - [Webdriver](https://sites.google.com/a/chromium.org/chromedriver/downloads) 설치(chrome 버전과 동일하게)
 
