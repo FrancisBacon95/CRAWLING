@@ -6,6 +6,8 @@
 
 ### - 컴퓨터 사양에 맞게 sleep("초") & scroll 길이 조정 필요.
 
+###                  
+
 # NAVER-CRAWLING (BeautifulSoup)
 
 ### 1. API 받아오기
