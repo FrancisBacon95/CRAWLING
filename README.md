@@ -19,3 +19,6 @@
 ### 3. 형태소 분석(트위터)
 
 ### 4. 워드클라우드 
+
+# 자연어처리 기초 자료
+[자연어처리(NLP) 기초 정리](http://hero4earth.com/blog/learning/2018/01/17/NLP_Basics_01/)
