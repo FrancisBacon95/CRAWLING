@@ -1,3 +1,7 @@
+# 초기내용 이후 업로도 안됨.
+
+### 확인 후에 바로 업로드 하자!!!!
+
 # INSTA-CRAWLING (SELENIUM)
 
 ### - [Webdriver](https://sites.google.com/a/chromium.org/chromedriver/downloads) 설치(chrome 버전과 동일하게)
