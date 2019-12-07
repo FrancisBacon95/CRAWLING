@@ -1,6 +1,6 @@
 # 초기내용 이후 업로도 안됨.
 
-### 확인 후에 바로 업로드 하자!!!!
+### 항상 업로드하는 습관을 들이자!!!! (github desktop 사용 요망)
 
 # INSTA-CRAWLING (SELENIUM)
 
